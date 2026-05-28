@@ -1,0 +1,52 @@
+Early gym gains quantified
+
+As a new player, I quickly fell in love with Torn. Since then, I've spent a lot of time reading guides, forum posts, and community discussions. One of the things I enjoy most is understanding game mechanics and making decisions through data, simulations, and optimization.
+
+In this post, I want to summarize what I've learned about early-game gym training, particularly during the period when players are still unlocking gyms. Rather than simply listing recommendations, I'll present the data behind each one and quantify its impact.
+
+The gym gain formula used in these simulations is based on Vladar's reverse engineering, while the remaining data (gym unlock requirements, gym multipliers, etc.) comes from the Torn Wiki.
+
+For each recommendation, I simulate two otherwise identical players:
+
+One who follows the recommendation.
+One who does not.
+
+By comparing their progression, we can isolate and quantify the benefit of each decision.
+
+The recommendations analyzed are:
+
+Join a faction.
+Get access to a Private Island.
+Choose a training strategy (highest multiplier vs. balanced).
+Decide whether working at a 3★ Music Store is worth the opportunity cost.
+Happy Jumps and energy stacking.
+
+Some recommendations are straightforward. Once you can afford a Private Island or join a good faction, the decision is usually easy.
+
+Others involve genuine trade-offs.
+
+-------------------------------------------------
+
+With that out of the way, let's start quantifying early gym progression, one recommendation at a time.
+
+
+Step 1 — Join a Faction
+*** graph ***
+
+Step 2 - Get access to a Private Island.
+*** graph ***
+
+Step 3 - Choose a training strategy (highest multiplier vs. balanced).
+Training only your highest gym multiplier increases short-term gains but can leave your stats heavily unbalanced while unlocking gyms.
+*** graph ***
+
+Step 4 - Decide whether working at a 3★ Music Store is worth the opportunity cost.
+Working at a Music Store means giving up the benefits of other companies.
+*** graph ***
+
+Step 5 - Jumping and energy stacking
+Happy Jumps require money, consume booster cooldowns, and may delay gym progression because energy is being saved instead of spent immediately.
+*** graph ***
+
+
+
